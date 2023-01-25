@@ -36,7 +36,7 @@
   /* emojies */
   .emojis {
       display: grid;
-      grid-template-columns: repeat(2, 455px);
+      grid-template-columns: repeat(2, 34rem);
       gap: 20px;
   }
   /* here the grid property used */
@@ -48,4 +48,5 @@
   .emoji p{
       flex-grow: 2;
   }
+  
   /* the end  */
